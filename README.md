@@ -1,5 +1,5 @@
 # V2TRUMP
-
+![](https://github.com/nogit0/V2TRUMP/blob/master/U/AI/ArtBoard%20Image%20(419).jpg)
 [![Build Status](https://travis-ci.org/TRUMPCOIN/V2TRUMP.svg?branch=master)](https://travis-ci.org/TRUMPCOIN/V2TRUMP)
 
 MEET THE TRUMP PROJECT
